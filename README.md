@@ -35,3 +35,5 @@
 
 ### 🐍 Snake Contribution Graph
 
+![snake gif](https://github.com/VO1D503/VO1D503/blob/output/github-snake-dark.svg)
+

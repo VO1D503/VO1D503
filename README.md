@@ -1,4 +1,5 @@
 <h2 align="left">~$ whoami? — VO1D</h2>
+<h4 align="left">👾 CEO @ <span style="color:#8aff80">ZeroTrace</span></h4>
 
 ###
 

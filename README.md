@@ -15,8 +15,8 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python logo" />
+<img width="12" />
 </div>
 
 ###
@@ -37,4 +37,3 @@
 ### 🐍 Snake Contribution Graph
 
 ![snake gif](https://github.com/VO1D503/VO1D503/blob/output/github-snake-dark.svg)
-
